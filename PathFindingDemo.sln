@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.30110.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PathFindingDemo", "PathFindingDemo\PathFindingDemo\PathFindingDemo.csproj", "{D90FE5BE-7B14-484F-AE9C-71A065E06BEC}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "PathFindingDemoContent", "PathFindingDemo\PathFindingDemoContent\PathFindingDemoContent.contentproj", "{E832A9CA-CD22-4EE2-B652-1A5BDF547AFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D90FE5BE-7B14-484F-AE9C-71A065E06BEC}.Debug|x86.ActiveCfg = Debug|x86
+		{D90FE5BE-7B14-484F-AE9C-71A065E06BEC}.Debug|x86.Build.0 = Debug|x86
+		{D90FE5BE-7B14-484F-AE9C-71A065E06BEC}.Release|x86.ActiveCfg = Release|x86
+		{D90FE5BE-7B14-484F-AE9C-71A065E06BEC}.Release|x86.Build.0 = Release|x86
+		{E832A9CA-CD22-4EE2-B652-1A5BDF547AFB}.Debug|x86.ActiveCfg = Debug|x86
+		{E832A9CA-CD22-4EE2-B652-1A5BDF547AFB}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

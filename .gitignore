@@ -1,0 +1,7 @@
+*.suo
+*.user
+*.cachefile
+PathFindingDemo/PathFindingDemoContent/bin/
+PathFindingDemo/PathFindingDemoContent/obj/
+PathFindingDemo/PathFindingDemo/bin/
+PathFindingDemo/PathFindingDemo/obj/
